@@ -32,15 +32,15 @@ west-data    fuqing.ch      20元/月          2年
 
 ## 3.上存节点到 Clash for Windows 
 
-![](/Users/angelaboy/Library/Containers/co.effie.ios/Data/Pictures/屏幕截图 2025-10-06 001523.png)
+![](https://github.com/Angelagoodboy/kexueshangwang/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-10-06%20001523.png)
 
 ## 4.打开系统代理并进行测试
 
-![](/Users/angelaboy/Library/Containers/co.effie.ios/Data/Pictures/屏幕截图 2025-10-06 001238.png)
+![](https://github.com/Angelagoodboy/kexueshangwang/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-10-06%20001238.png)
 
 通过 访问 Google 测试，浏览器输入 google.com 成功则会看到 Google 主页
 
-![](/Users/angelaboy/Library/Containers/co.effie.ios/Data/Pictures/屏幕截图 2025-10-06 002408.png)
+![](https://github.com/Angelagoodboy/kexueshangwang/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-10-06%20002408.png)
 
 
 
