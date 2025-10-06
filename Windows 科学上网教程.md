@@ -35,6 +35,7 @@ west-data    fuqing.ch      20元/月          2年
 ![](https://github.com/Angelagoodboy/kexueshangwang/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-10-06%20001523.png)
 
 ## 4.打开系统代理并进行测试
+在 Clash 主界面 打开 System Proxy ，如图  
 
 ![](https://github.com/Angelagoodboy/kexueshangwang/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-10-06%20001238.png)
 
