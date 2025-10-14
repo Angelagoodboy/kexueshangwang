@@ -35,3 +35,5 @@ https://www.youtube.com/watch?v=XKZM_AjCUr0&list=PLqybz7NWybwUgR-S6m78tfd-lV4sBv
 
 
 ## Clash&&小火箭客户端
+
+需要下载Clash 客户端可以到 [Release](https://github.com/Angelagoodboy/kexueshangwang/releases/) 页面下载
