@@ -2,7 +2,7 @@
 
 
 
-## 1.下载并安装Clash for Windows [（点击此链接下载）](https://github.com/Angelagoodboy/kexueshangwang/blob/main/releases/bin/Clash.for.Windows.Setup.0.20.39.exe)
+## 1.下载并安装Clash for Windows [（点击此链接下载）](https://github.com/Angelagoodboy/kexueshangwang/releases)
 
 
 
