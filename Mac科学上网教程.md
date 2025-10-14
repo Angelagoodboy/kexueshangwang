@@ -38,6 +38,7 @@ ClashX v1.118.0 ,最低系统要求 macOS 10.14，M芯片请下载ClashX-Pro.dmg
 
  
 设置为系统代理
+ 
 ![](https://github.com/Angelagoodboy/kexueshangwang/blob/main/images/%E8%AE%BE%E7%BD%AE%E4%B8%BA%E7%B3%BB%E7%BB%9F%E4%BB%A3%E7%90%86.png)
 
 
