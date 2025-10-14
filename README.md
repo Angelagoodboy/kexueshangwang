@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=XKZM_AjCUr0&list=PLqybz7NWybwUgR-S6m78tfd-lV4sBv
 [Android&鸿蒙 代理科学上网]()
 
 
-[Mac 代理科学上网]()
+[Mac 代理科学上网](https://github.com/Angelagoodboy/kexueshangwang/blob/main/Mac%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%95%99%E7%A8%8B.md)
 
 
 
