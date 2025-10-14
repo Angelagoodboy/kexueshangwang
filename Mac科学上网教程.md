@@ -22,7 +22,9 @@ west-data 为例：https://api.wd-turbo.com/sub?target=xxxxxxxxxxxxxxx
 ClashX v1.118.0 ,最低系统要求 macOS 10.14，M芯片请下载ClashX-Pro.dmg。更老的系统请下载ClashX1.95.1.dmg。
  
 [ClashX-Pro.dmg]()
+ 
 [ClashX-ClashX v1.118.0.dmg]()
+ 
 [ClashX1.95.1.dmg]()
 
 启动后，会看到右上角有这个图标
