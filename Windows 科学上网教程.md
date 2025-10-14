@@ -11,14 +11,15 @@
 
 
 以下是本人亲测的有效、可靠的商用节点
-
-
-
 | 机场名称    | 网站            | 价格       | 运营时间   |
 |:---------- |:-------------  |:---------  |:---------:|
 | west-data  | fuqing.ch      | 20元/月    | 2年       |
 | 薯条        | ace-taffy.com  | 20-50元/月 | 5年       |
 | 花云        | huacloud.dev   | 39元/月    | 7年       |
+
+采购好节点后从服务商的官网会获得一个订阅节点（一串字符）
+west-data 为例：https://api.wd-turbo.com/sub?target=xxxxxxxxxxxxxxx
+
 
 
 
