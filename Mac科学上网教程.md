@@ -21,9 +21,9 @@ west-data 为例：https://api.wd-turbo.com/sub?target=xxxxxxxxxxxxxxx
 ## 下载Clash Mac 客户端并安装
 ClashX v1.118.0 ,最低系统要求 macOS 10.14，M芯片请下载ClashX-Pro.dmg。更老的系统请下载ClashX1.95.1.dmg。
  
-(ClashX-Pro.dmg)[]
-(ClashX-ClashX v1.118.0.dmg)[]
-(ClashX1.95.1.dmg)[]
+[ClashX-Pro.dmg]()
+[ClashX-ClashX v1.118.0.dmg]()
+[ClashX1.95.1.dmg]()
 
 启动后，会看到右上角有这个图标
 ![](https://github.com/Angelagoodboy/kexueshangwang/blob/main/images/%E5%AE%89%E8%A3%85%E6%88%90%E5%8A%9F.png)
